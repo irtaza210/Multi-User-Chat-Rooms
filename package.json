@@ -1,0 +1,24 @@
+{
+  "name": "module6-group-module6-472936-474183-master",
+  "version": "1.0.0",
+  "description": "Irtaza Waseem 472936 irtaza210",
+  "main": "chat-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irtaza210/Multi-User-Chat-Rooms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irtaza210/Multi-User-Chat-Rooms/issues"
+  },
+  "homepage": "https://github.com/irtaza210/Multi-User-Chat-Rooms#readme",
+  "dependencies": {
+    "bad-words": "^3.0.4",
+    "socket.io": "^4.0.2"
+  }
+}
