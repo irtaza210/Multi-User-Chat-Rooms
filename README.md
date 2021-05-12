@@ -4,8 +4,8 @@ How to run the app:
 
 1. Download the repository
 2. cd into the repository Using Terminal for Mac or Command Prompt for Windows
-3. Run the following command: npm install
-4. Run the following command: node chat-server.js
+3. Run the following command: **npm install**
+4. Run the following command: **node chat-server.js**
 5. You're all set! Open https://localhost:3456 on your browser to use the app
 
 
